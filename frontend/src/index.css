@@ -1,0 +1,123 @@
+﻿@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100%;
+}
+
+body {
+  font-family: Inter, Arial, Helvetica, sans-serif;
+}
+
+/* Calendar */
+
+.react-calendar {
+  width: 100%;
+  border: none !important;
+  background: transparent !important;
+  font-family: inherit;
+}
+
+.react-calendar__navigation {
+  margin-bottom: 8px;
+}
+
+.react-calendar__navigation button {
+  border-radius: 12px !important;
+  font-weight: 700;
+}
+
+.react-calendar__navigation button:enabled:hover {
+  background: rgba(124, 58, 237, 0.1) !important;
+}
+
+.react-calendar__month-view__weekdays {
+  font-size: 10px;
+  font-weight: 800;
+  text-transform: uppercase;
+  opacity: 0.5;
+}
+
+.react-calendar__tile {
+  position: relative;
+  border-radius: 12px !important;
+  padding: 12px 4px !important;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.react-calendar__tile:enabled:hover {
+  background: rgba(124, 58, 237, 0.12) !important;
+}
+
+.react-calendar__tile--now {
+  background: rgba(236, 72, 153, 0.12) !important;
+  border-radius: 12px !important;
+}
+
+.react-calendar__tile--active {
+  background: linear-gradient(135deg, #7c3aed, #ec4899) !important;
+  color: white !important;
+  border-radius: 12px !important;
+}
+
+/* Task date */
+
+.has-task {
+  font-weight: 900 !important;
+}
+
+.has-task::after {
+  content: "";
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  bottom: 5px;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 50%;
+  background: #ec4899;
+}
+
+/* Dark calendar */
+
+.dark .react-calendar {
+  color: #f8fafc;
+}
+
+.dark .react-calendar__navigation button {
+  color: #f8fafc;
+}
+
+.dark .react-calendar__navigation button:enabled:hover {
+  background: rgba(255, 255, 255, 0.08) !important;
+}
+
+.dark .react-calendar__month-view__weekdays {
+  color: #cbd5e1;
+}
+
+.dark .react-calendar__tile {
+  color: #f8fafc;
+}
+
+.dark .react-calendar__tile:enabled:hover {
+  background: rgba(255, 255, 255, 0.08) !important;
+}
+
+.dark .react-calendar__tile--now {
+  background: rgba(236, 72, 153, 0.18) !important;
+}
+
+.dark .react-calendar__tile--neighboringMonth {
+  color: #64748b !important;
+}
+
+.dark .react-calendar__tile--active {
+  background: linear-gradient(135deg, #7c3aed, #ec4899) !important;
+  color: white !important;
+}

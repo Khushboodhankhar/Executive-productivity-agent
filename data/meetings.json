@@ -1,0 +1,41 @@
+[
+  {
+    "meeting_id": "meeting-001",
+    "title": "Leadership Sync",
+    "date": "2026-09-21",
+    "start_time": "09:00",
+    "end_time": "09:35",
+    "participants": [
+      "Arjun Malhotra",
+      "Neha Kapoor",
+      "Raghav Sethi",
+      "Divya Rao"
+    ],
+    "items": [
+      {
+        "speaker": "Neha Kapoor",
+        "text": "Q3 campaign deck draft is 80% complete. She will send it to Arjun for review by Wednesday."
+      },
+      {
+        "speaker": "Arjun Malhotra",
+        "text": "He committed to sending Raghav the updated vendor list by end of day tomorrow."
+      },
+      {
+        "speaker": "Arjun Malhotra",
+        "text": "Mumbai office renewal paperwork requires sign-off this week. Ownership is unclear; Arjun advised flagging it rather than assuming responsibility."
+      },
+      {
+        "speaker": "Divya Rao",
+        "text": "She was asked to prepare the July expense variance report before Thursday’s board prep. Divya confirmed it will be ready by Wednesday evening."
+      },
+      {
+        "speaker": "Arjun Malhotra",
+        "text": "He will reconfirm the new meeting time directly with the Meridian Logistics team."
+      },
+      {
+        "speaker": "Neha Kapoor",
+        "text": "Campaign deck review was initially scheduled for Wednesday, but Thursday morning was considered a safer option."
+      }
+    ]
+  }
+]

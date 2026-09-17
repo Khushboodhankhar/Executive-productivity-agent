@@ -1,0 +1,102 @@
+{
+  "as_of": "2026-09-25",
+  "my_actions": [
+    {
+      "task_id": "TASK-001",
+      "title": "Send updated vendor list to Raghav",
+      "owner": "Arjun Malhotra",
+      "counterparty": "Raghav Sethi",
+      "status": "open",
+      "deadline": "2026-09-23",
+      "deadline_precision": "morning",
+      "classification": "MY_ACTION",
+      "source_ids": [
+        "email-thread-001"
+      ],
+      "confidence": 1.0,
+      "ownership_unclear": false
+    }
+  ],
+  "waiting_on_others": [],
+  "unclear_ownership": [
+    {
+      "task_id": "TASK-005",
+      "title": "Confirm Mumbai office lease renewal ownership",
+      "owner": "Arjun Malhotra",
+      "counterparty": null,
+      "status": "open",
+      "deadline": "2026-09-25",
+      "deadline_precision": "end of day",
+      "classification": "WAITING_ON_OTHER",
+      "source_ids": [
+        "email-thread-005"
+      ],
+      "confidence": 1.0,
+      "ownership_unclear": true
+    }
+  ],
+  "overdue": [
+    {
+      "task_id": "TASK-001",
+      "title": "Send updated vendor list to Raghav",
+      "owner": "Arjun Malhotra",
+      "counterparty": "Raghav Sethi",
+      "status": "open",
+      "deadline": "2026-09-23",
+      "deadline_precision": "morning",
+      "classification": "MY_ACTION",
+      "source_ids": [
+        "email-thread-001"
+      ],
+      "confidence": 1.0,
+      "ownership_unclear": false
+    }
+  ],
+  "completed": [
+    {
+      "task_id": "TASK-002",
+      "title": "Deliver Q3 campaign deck for review",
+      "owner": "Arjun Malhotra",
+      "counterparty": "Neha Kapoor",
+      "status": "done",
+      "deadline": "2026-09-24",
+      "deadline_precision": "exact",
+      "classification": "MY_ACTION",
+      "source_ids": [
+        "email-thread-002"
+      ],
+      "confidence": 1.0,
+      "ownership_unclear": false
+    },
+    {
+      "task_id": "TASK-003",
+      "title": "Reschedule Meridian Logistics call",
+      "owner": "Arjun Malhotra",
+      "counterparty": "Priya Nair",
+      "status": "done",
+      "deadline": "2026-09-23",
+      "deadline_precision": "exact",
+      "classification": "MY_ACTION",
+      "source_ids": [
+        "email-thread-003"
+      ],
+      "confidence": 1.0,
+      "ownership_unclear": false
+    },
+    {
+      "task_id": "TASK-004",
+      "title": "Deliver July expense variance report",
+      "owner": "Arjun Malhotra",
+      "counterparty": "Divya Rao",
+      "status": "done",
+      "deadline": "2026-09-23",
+      "deadline_precision": "evening",
+      "classification": "MY_ACTION",
+      "source_ids": [
+        "email-thread-004"
+      ],
+      "confidence": 1.0,
+      "ownership_unclear": false
+    }
+  ]
+}

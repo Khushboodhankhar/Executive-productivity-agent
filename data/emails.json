@@ -1,0 +1,207 @@
+[
+  {
+    "thread_id": "email-thread-001",
+    "subject": "Updated Vendor List",
+    "messages": [
+      {
+        "date": "2026-09-21",
+        "time": "09:50",
+        "sender": "Raghav Sethi",
+        "recipient": "Arjun Malhotra",
+        "text": "Requesting the updated vendor list today."
+      },
+      {
+        "date": "2026-09-21",
+        "time": "17:40",
+        "sender": "Arjun Malhotra",
+        "recipient": "Raghav Sethi",
+        "text": "I will send it tomorrow morning."
+      },
+      {
+        "date": "2026-09-22",
+        "time": "09:15",
+        "sender": "Raghav Sethi",
+        "recipient": "Arjun Malhotra",
+        "text": "Anytime today works fine."
+      },
+      {
+        "date": "2026-09-22",
+        "time": "18:30",
+        "sender": "Arjun Malhotra",
+        "recipient": "Raghav Sethi",
+        "text": "Confirmed, I will send it Wednesday morning."
+      },
+      {
+        "date": "2026-09-23",
+        "time": "08:45",
+        "sender": "Raghav Sethi",
+        "recipient": "Arjun Malhotra",
+        "text": "Checking if we are still good for this morning."
+      }
+    ]
+  },
+  {
+    "thread_id": "email-thread-002",
+    "subject": "Q3 Campaign Deck",
+    "messages": [
+      {
+        "date": "2026-09-21",
+        "time": "11:00",
+        "sender": "Neha Kapoor",
+        "recipient": "Arjun Malhotra",
+        "text": "The Q3 campaign deck is 80% complete. Targeting Wednesday for review."
+      },
+      {
+        "date": "2026-09-22",
+        "time": "16:15",
+        "sender": "Neha Kapoor",
+        "recipient": "Arjun Malhotra",
+        "text": "Requesting to shift the review to Thursday morning."
+      },
+      {
+        "date": "2026-09-23",
+        "time": "10:00",
+        "sender": "Arjun Malhotra",
+        "recipient": "Neha Kapoor",
+        "text": "Thursday morning works. What exact time?"
+      },
+      {
+        "date": "2026-09-23",
+        "time": "10:20",
+        "sender": "Neha Kapoor",
+        "recipient": "Arjun Malhotra",
+        "text": "Proposed 9:30 Thursday before board prep."
+      },
+      {
+        "date": "2026-09-24",
+        "time": "08:00",
+        "sender": "Neha Kapoor",
+        "recipient": "Arjun Malhotra",
+        "text": "Deck is ready and attached ahead of our 9:30 review."
+      }
+    ]
+  },
+  {
+    "thread_id": "email-thread-003",
+    "subject": "Meridian Logistics Call Reschedule",
+    "messages": [
+      {
+        "date": "2026-09-21",
+        "time": "13:00",
+        "sender": "Priya Nair",
+        "recipient": "Arjun Malhotra",
+        "text": "Call needs rescheduling. Available Tuesday–Thursday afternoons."
+      },
+      {
+        "date": "2026-09-22",
+        "time": "15:00",
+        "sender": "Arjun Malhotra",
+        "recipient": "Priya Nair",
+        "text": "Proposed Wednesday at 3 PM."
+      },
+      {
+        "date": "2026-09-22",
+        "time": "17:45",
+        "sender": "Priya Nair",
+        "recipient": "Arjun Malhotra",
+        "text": "Confirmed, Wednesday at 3 PM works."
+      },
+      {
+        "date": "2026-09-23",
+        "time": "13:30",
+        "sender": "Priya Nair",
+        "recipient": "Arjun Malhotra",
+        "text": "Checking if we are still on for 3 PM."
+      },
+      {
+        "date": "2026-09-23",
+        "time": "14:00",
+        "sender": "Arjun Malhotra",
+        "recipient": "Priya Nair",
+        "text": "Confirmed."
+      }
+    ]
+  },
+  {
+    "thread_id": "email-thread-004",
+    "subject": "July Expense Variance Report",
+    "messages": [
+      {
+        "date": "2026-09-21",
+        "time": "14:30",
+        "sender": "Divya Rao",
+        "recipient": "Arjun Malhotra",
+        "text": "Started the July expense variance report, targeting Thursday morning."
+      },
+      {
+        "date": "2026-09-22",
+        "time": "09:00",
+        "sender": "Arjun Malhotra",
+        "recipient": "Divya Rao",
+        "text": "Requested delivery by Wednesday evening instead."
+      },
+      {
+        "date": "2026-09-22",
+        "time": "09:10",
+        "sender": "Divya Rao",
+        "recipient": "Arjun Malhotra",
+        "text": "Confirmed, Wednesday evening is doable."
+      },
+      {
+        "date": "2026-09-23",
+        "time": "18:00",
+        "sender": "Divya Rao",
+        "recipient": "Arjun Malhotra",
+        "text": "Attached the July expense variance report."
+      },
+      {
+        "date": "2026-09-23",
+        "time": "18:10",
+        "sender": "Arjun Malhotra",
+        "recipient": "Divya Rao",
+        "text": "Acknowledged receipt, thanks."
+      }
+    ]
+  },
+  {
+    "thread_id": "email-thread-005",
+    "subject": "Mumbai Office Lease Renewal",
+    "messages": [
+      {
+        "date": "2026-09-21",
+        "time": "10:00",
+        "sender": "Facilities Internal",
+        "recipient": "Arjun Malhotra",
+        "text": "Reminder: Mumbai office renewal paperwork requires authorized signature by Friday, September 25."
+      },
+      {
+        "date": "2026-09-22",
+        "time": "11:00",
+        "sender": "Raghav Sethi",
+        "recipient": "Arjun Malhotra",
+        "text": "Who is signing the Mumbai office renewal? It appears unassigned."
+      },
+      {
+        "date": "2026-09-23",
+        "time": "12:00",
+        "sender": "Divya Rao",
+        "recipient": "Arjun Malhotra",
+        "text": "Not on my end. Believed Facilities is handling it."
+      },
+      {
+        "date": "2026-09-24",
+        "time": "09:00",
+        "sender": "Facilities Internal",
+        "recipient": "Arjun Malhotra",
+        "text": "Signature still pending. Deadline is Friday end of day."
+      },
+      {
+        "date": "2026-09-24",
+        "time": "10:00",
+        "sender": "Raghav Sethi",
+        "recipient": "Arjun Malhotra",
+        "text": "One day out and still unowned. Please confirm who is handling it."
+      }
+    ]
+  }
+]
